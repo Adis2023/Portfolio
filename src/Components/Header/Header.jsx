@@ -1,13 +1,13 @@
 import React, { useRef } from 'react';
 import './Header.css';
-import Profile from '../../assets/profile2b.png';
+import Profile from '../../assets/profile2.png';
 import HeaderSocial from './HeaderSocials';
 import Top from './Top';
 import { Cursor, useTypewriter } from 'react-simple-typewriter';
 
 const Header = ({ innerRef }) => {
 	const [TextWords] = useTypewriter({
-		words: ['WEB DEVELOPER', 'COMPETITIVE PROGRAMMER', 'ANDROID DEVELOPER'],
+		words: ['WEB DEVELOPER', 'MERN Stack Developer'],
 		loop: {},
 		typeSpeed: 150,
 	});
@@ -18,7 +18,7 @@ const Header = ({ innerRef }) => {
 				<div className="headerMain">
 					<div className="header_text">
 						<h5>Hello I'm</h5>
-						<h1>Akshay Pise</h1>
+						<h1>Adinath Shinare</h1>
 						<div className="text-light">
 							<h4>
 								<span>{TextWords}</span>

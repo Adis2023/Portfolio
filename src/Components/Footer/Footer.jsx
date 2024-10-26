@@ -10,7 +10,7 @@ const Footer = () => {
 		<section id="Footer">
 			<div className="footer_container">
 				<h3>
-					<span>Akshay Pise</span> Portfolio
+					<span>Adinath Shinare</span> Portfolio
 				</h3>
 				<p>
 					This Website Created With Technologies Like React, E-mailJS api, CSS,
@@ -25,18 +25,18 @@ const Footer = () => {
 					<a href="#Contact">CONTACT</a>
 				</div>
 				<div className="appLinks">
-					<a href="https://twitter.com/akshaypise1112">
+					<a href="">
 						<RiTwitterXLine />
 					</a>
-					<a href="https://www.instagram.com/akshay_19.01/">
+					<a href="https://www.instagram.com/adi.i_1416/profilecard/?igsh=dWw3MHVkZ3pyNzcz/">
 						<FaInstagram />
 					</a>
-					<a href="https://www.linkedin.com/in/akshay-pise-b25592242/">
+					<a href="https://www.linkedin.com/in/adinath-shinare-5a1946283/">
 						<SlSocialLinkedin />
 					</a>
 				</div>
 				<p>
-					Created in 2023<sup>&#169;</sup>
+					Created in 2024<sup>&#169;</sup>
 				</p>
 			</div>
 		</section>

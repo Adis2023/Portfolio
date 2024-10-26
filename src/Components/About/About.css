@@ -27,6 +27,7 @@ section {
 	overflow: hidden;
 	transform: rotate(10deg);
 	transition: var(--transition);
+	
 }
 
 .about_me-image:hover {

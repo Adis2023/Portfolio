@@ -13,10 +13,10 @@ const Contact = ({ innerRef }) => {
 
 		emailjs
 			.sendForm(
-				'service_yr8dwci',
-				'template_y2p0d6g',
-				form.current,
-				'ifMJtFPf6CZ57F_lM'
+				'service_6iucbgn',
+				'template_p6k18kt',
+			form.current,
+				'-DX2yrtFlSPsxSdjg'
 			)
 			.then(
 				(result) => {

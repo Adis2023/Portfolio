@@ -1,6 +1,6 @@
 import React from 'react';
 import './About.css';
-import Profile from './../../assets/profile.png';
+import Profile from './../../assets/profile.jpg';
 import { FaAward } from 'react-icons/fa6';
 import { FaUsers } from 'react-icons/fa';
 import { MdFolderShared } from 'react-icons/md';
@@ -34,12 +34,12 @@ const About = ({ innerRef }) => {
 						<article className="about_card">
 							<MdFolderShared className="about_icon" />
 							<h4 className="fields">Projects</h4>
-							<small>10+ Completed</small>
+							<small>5+ Completed</small>
 						</article>
 					</div>
 
 					<p className="intro">
-						My Name is Akshay Pise. I just completed Bsc(Computer Science) in
+						My Name is Adinath Shinare. I just completed Bsc(Computer Science) in
 						Dr. D. Y. Patil Arts, Commerce and Science College, Pimpri. <br />I
 						am Software Developer. I Like to Learn by Trial and Error Method by
 						Myself. <br />I am Quick Learner and Love to Learn new Thing and

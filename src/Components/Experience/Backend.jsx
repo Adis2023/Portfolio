@@ -10,7 +10,7 @@ const Backend = () => {
 					<div className="experience_details2">
 						<TbDiscountCheckFilled className="experience_details-icon" />
 						<div>
-							<h4>Data Structures and Algorithm</h4>
+							<h4>Git lab</h4>
 							<small className="text-light">Experienced</small>
 						</div>
 					</div>
@@ -22,7 +22,7 @@ const Backend = () => {
 					<div className="experience_details2">
 						<TbDiscountCheckFilled className="experience_details-icon" />
 						<div>
-							<h4>Object Oriented Programming</h4>
+							<h4>Sonar Cloud</h4>
 							<small className="text-light">Experienced</small>
 						</div>
 					</div>
@@ -30,6 +30,20 @@ const Backend = () => {
 						<div className="bar_OOP"></div>
 					</div>
 				</article>
+
+				<article className="experience_details">
+					<div className="experience_details2">
+						<TbDiscountCheckFilled className="experience_details-icon" />
+						<div>
+							<h4>Jira Tool</h4>
+							<small className="text-light">Experienced</small>
+						</div>
+					</div>
+					<div className="progressbar">
+						<div className="bar_OOP"></div>
+					</div>
+				</article>
+
 				<article className="experience_details">
 					<div className="experience_details2">
 						<TbDiscountCheckFilled className="experience_details-icon" />

@@ -1,9 +1,9 @@
 import React from 'react';
-import highSchool from '../../assets/Shri vridheshwar high school.jpg';
+import highSchool from '../../assets/jay malhar high school.jpg';
 import './Education.css';
 import juniorCollege from '../../assets/shri vridheshwar junior college.jpg';
 import BCS from '../../assets/dr. d. y. patil ACS college pimpri.jpeg';
-import modern from '../../assets/modern college.jpg';
+import modern from '../../assets/S b patil collage.jpg';
 
 function Education() {
 	return (
@@ -12,17 +12,17 @@ function Education() {
 				<img
 					className="schoolImage"
 					src={highSchool}
-					alt="Shri Vridheshwar High School, Tisgaon"
+					alt="Jay Malhar High School, Jambut"
 				/>
 				<div className="schoolName">
 					<p>
-						Shri Vridheshwar High School,
-						<br /> Tisgaon
+						Jay Malhar High School,
+						<br /> Jambut
 					</p>
 					<p>2019</p>
 				</div>
 				<p>X</p>
-				<p>83.40%</p>
+				<p>58.80%</p>
 			</div>
 			<div className="schoolCard">
 				<img
@@ -32,13 +32,13 @@ function Education() {
 				/>
 				<div className="schoolName">
 					<p>
-						Shri Vridheshwar Junior College,
-						<br /> Tisgaon
+						Shri Gurudev Datta Vidyalay ,
+						<br /> Savindne
 					</p>
 					<p>2021</p>
 				</div>
 				<p>XII</p>
-				<p>83.67%</p>
+				<p>70.80%</p>
 			</div>
 			<div className="schoolCard">
 				<img
@@ -54,18 +54,18 @@ function Education() {
 					<p>2024</p>
 				</div>
 				<p>BSc(Computer Science)</p>
-				<p>8.55 CGPA</p>
+				<p>8.27 CGPA</p>
 			</div>
 			<div className="schoolCard">
 				<img
 					className="schoolImage"
 					src={modern}
-					alt="PES Modern College of Engineering, Pune"
+					alt="S B Patil College of Engineering, Pune"
 				/>
 				<div className="schoolName">
 					<p>
-						Modern College of Engineering, <br />
-						Pune
+						S B Patil College of Engineering, <br />
+						Indapur
 					</p>
 					<p>2026</p>
 				</div>

@@ -17,8 +17,8 @@ const ContactHandles = () => {
 					</div>
 					<div className="contact_details">
 						<h4>Mail me at..</h4>
-						<a href="mailto:akshaypise1112@gmail.com" target="_blank">
-							akshaypise1112@gmail.com
+						<a href="mailto:adinathshinare96@gmail.com" target="_blank">
+							adinathshinare96@gmail.com
 						</a>
 					</div>
 				</div>
@@ -29,7 +29,7 @@ const ContactHandles = () => {
 					<div className="contact_details">
 						<h4>DM me at..</h4>
 						<a
-							href="https://www.linkedin.com/in/akshay-pise-b25592242/"
+							href="https://www.linkedin.com/in/adinath-shinare-5a1946283/"
 							target="_blank"
 						>
 							Linkedin
@@ -42,8 +42,8 @@ const ContactHandles = () => {
 					</div>
 					<div className="contact_details">
 						<h4>Send Whatsapp Message at..</h4>
-						<a href="https://wa.me/9834532967" target="blank">
-							+91 9834532967
+						<a href="https://wa.me/7058123715" target="blank">
+							+91 7058123715
 						</a>
 					</div>
 				</div>
